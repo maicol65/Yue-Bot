@@ -26,10 +26,10 @@ global.confirmCode = ''
 global.owner = [
   ['5213339577315', 'Propietario 👑', true],
   ['5213318360934', 'Owner ✨️', true],
-  ['5493876639332'],
-  ['5218715746374'],
-  ['573237649689'],
-  ['5351524614']
+  ['51953463385'],
+  ['51953463385'],
+  ['51953463385'],
+  ['51953463385']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -39,7 +39,7 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.creadorbot = '5213318360934'
+global.creadorbot = '51953463385'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -68,12 +68,12 @@ global.welcom3 = 'Edita Con !seteliminada'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.banner = 'https://files.catbox.moe/8b91ry.jpg'
-global.catalogo = 'https://files.catbox.moe/4d5ba7.jpg'
+global.banner = 'https://files.catbox.moe/chicj6.jpg'
+global.catalogo = 'https://files.catbox.moe/igarwe.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.enlace = 'https://whatsapp.com/channel/0029Vatvv7w2P59uIo6EHK3d'
+global.enlace = 'https://whatsapp.com/channel/0029Vaxj65XBKfi2sfWVW52H'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
